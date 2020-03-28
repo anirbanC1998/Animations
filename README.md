@@ -1,2 +1,2 @@
-# Animations
-CS 419 Animations
+# Unity
+General Unity Playground with all needed assets
